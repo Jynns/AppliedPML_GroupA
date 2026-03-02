@@ -6,3 +6,4 @@ assignement-LDA/noAdmixed_1000G_id_labels.csv
 assignement-LDA/recoded_1000G_MXL.mat.xz
 assignement-LDA/recoded_1000G.noadmixed.mat.xz
 .venv/*
+PCA/MNIST/*
