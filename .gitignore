@@ -7,3 +7,8 @@ assignement-LDA/recoded_1000G_MXL.mat.xz
 assignement-LDA/recoded_1000G.noadmixed.mat.xz
 .venv/*
 PCA/MNIST/*
+*.png
+PCA/data/*
+PCA/models
+PCA/*
+DS_Store
